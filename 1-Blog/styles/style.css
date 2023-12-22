@@ -1,0 +1,104 @@
+body {
+  margin: 0px;
+  background: linear-gradient(180deg, #374151 0%, #111827 100%);
+}
+h1 {
+  margin: 0 457px 30px 458px;
+}
+nav {
+  padding: 80px 180px;
+}
+nav ul {
+  list-style: none;
+}
+footer {
+  margin: 0 608px 77px;
+}
+.beforePicture {
+  margin: 0 586px 28px 640px; 
+}
+.mainImg {
+  margin: 0 272px 69px 272px;
+}
+.heroB {
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  background: #00000026;
+  color: #FFF;
+
+}
+.heroFirst {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #FFF;
+}
+.heroSecond {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  color: #FFF;
+}
+.search {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  color: #FFF;
+}
+.frontEnd {
+  margin: 0 630px 14px 630px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #FFF;
+}
+.theory {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38px;
+  color: #FFF;
+}
+.signName {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #FFF;
+}
+.signProf {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #FFF;
+}
+.base  {
+  margin: 0 365px 185px 365px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 40;
+  line-height: 32px;
+  color: #FFF;
+}
+.baseSmall {
+  margin: 0 366px 103px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #FFF;
+}
+.footer {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #FFF;
+}
