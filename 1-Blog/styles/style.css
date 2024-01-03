@@ -1,0 +1,70 @@
+body {
+  color: #FFF;
+  line-height: 28px;
+  box-sizing: border-box;
+  font-weight: 400;
+  font-size: 16px;
+  font-family: Roboto;
+  margin: 0px;
+  background: linear-gradient(180deg, #374151 0%, #111827 100%);
+}
+h1 {
+  margin: 0 auto 30px;
+}
+nav {
+  padding: 80px auto;
+}
+nav ul {
+  list-style: none;
+}
+.footer {
+  margin: 0 auto 77px;
+}
+.beforePicture {
+  margin: 0 586px 28px 640px; 
+}
+.mainImg {
+  margin: 0 auto 69px;
+}
+.heroB {
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  background: #00000026;
+
+}
+.heroFirst {
+  font-size: 18px;
+  line-height: 21px;
+}
+.heroSecond {
+  line-height: 19px;
+}
+.search {
+  line-height: 19px;
+}
+.frontEnd {
+  margin: 0 auto 14px;
+  font-size: 14px;
+  line-height: 16px;
+}
+.theory {
+  font-size: 24px;
+  line-height: 38px;
+}
+.signName {
+}
+.signProf {
+  font-size: 14px;
+}
+.base  {
+  margin: 0 auto 185px;
+  font-size: 20px;
+  font-weight: 40;
+  line-height: 32px;
+}
+.baseSmall {
+  margin: 0 auto 103px;
+  line-height: 30px;
+}
